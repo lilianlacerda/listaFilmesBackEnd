@@ -22,6 +22,13 @@ Este é meu primeiro projeto pessoal, e estou muito empolgada com ele! Tenho ime
 - Deixar o código mais limpo e legível;
 - Melhorar a estrutura do banco de dados.
 
+## Veja o projeto em ação :movie_camera:
+Gostaria de ver esse projeto funcionando? 
+
+[Acesse minha postagem no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7271577181678395392/)
+
+
+
 <br>
 
 > Sou completamente apixonada por tecnologia. Não me canso de estudar para melhorar ainda mais como pessoa e como profissional!
